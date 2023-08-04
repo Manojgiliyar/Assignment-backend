@@ -7,7 +7,7 @@ const jwt = require('jsonwebtoken');
 
 const USERS = [
   {
-    'email': 'manojggiliyari.com',
+    'email': 'manojggiliyari@gmail.com',
     'password': 'password123',
     'isAdmin': true
   }
