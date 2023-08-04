@@ -1,7 +1,7 @@
 {
-  "name": "be-assignment",
+  "name": "backendassignment",
   "version": "1.0.0",
-  "description": "BackendAssignment for LeetCode-type website",
+  "description": "Backend Assignment for website",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests specified\"",
