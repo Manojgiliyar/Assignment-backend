@@ -1,0 +1,16 @@
+{
+  "name": "be-assignment",
+  "version": "1.0.0",
+  "description": "BackendAssignment for LeetCode-type website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\"",
+    "start": "node index.js"
+  },
+  "keywords": ["backend", "assignment", "web development"],
+  "author": "Manoj",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
